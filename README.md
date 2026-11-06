@@ -10,6 +10,21 @@
   <img src="https://komarev.com/ghpvc/?username=Disha22Deshmukh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
+
+<p align="center">
+  <img
+    src="./assets/disha-coding.gif"
+    width="100%"
+    alt="Disha's animated coding workspace"
+  />
+</p>
+
+<h1 align="center">Hey there! 👋 I'm Disha Deshmukh</h1>
+
+<p align="center">
+  🤖 Aspiring Data Scientist | AI Engineering Student
+</p>
+
 ---
 
 ## 🌟 About Me
