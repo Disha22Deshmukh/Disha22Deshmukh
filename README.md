@@ -2,7 +2,7 @@
 
 <p align="center">
   <img<img width="506" height="337" alt="Neon Coding Journey_ Meet Disha" src="https://github.com/user-attachments/assets/3f94cc4f-e71e-47ff-8032-52105d855c19" />
-font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI+Engineering+Student+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs;Learning+%7C+Building+%7C+Innovating" alt="Typing SVG"/>
+
 </p>
 
 <h3 align="center">🤖 Aspiring Data Scientist | AI Engineering Student | 🇮🇳 India</h3>
@@ -127,16 +127,7 @@ font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=tr
 <p align="center">
   ⭐ Thanks for visiting my profile! Let's learn and build something amazing together.
 </p>!--
+
+
 **Disha22Deshmukh/Disha22Deshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
