@@ -1,7 +1,8 @@
 ## Hi there 👋  I'm Disha Deshmukh!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI+Engineering+Student+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs;Learning+%7C+Building+%7C+Innovating" alt="Typing SVG"/>
+  <img<img width="506" height="337" alt="Neon Coding Journey_ Meet Disha" src="https://github.com/user-attachments/assets/3f94cc4f-e71e-47ff-8032-52105d855c19" />
+font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI+Engineering+Student+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs;Learning+%7C+Building+%7C+Innovating" alt="Typing SVG"/>
 </p>
 
 <h3 align="center">🤖 Aspiring Data Scientist | AI Engineering Student | 🇮🇳 India</h3>
@@ -17,6 +18,7 @@
     width="100%"
     alt="Disha's animated coding workspace"
   />
+  
 </p>
 
 <h1 align="center">Hey there! 👋 I'm Disha Deshmukh</h1>
